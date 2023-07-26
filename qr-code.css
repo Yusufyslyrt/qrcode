@@ -1,0 +1,37 @@
+body{
+    background-color: lightgray;
+    font-family: Arial, sans-serif;
+}
+.deneme {
+    background-color: aqua;
+    width: 1400px;
+    height: 500px;
+    position: fixed;
+    top: 15%;
+    left: 13%;
+    padding-top: 150px;
+    padding-bottom: 100px;
+} 
+
+.deneme1 {
+    background-color: hsl(0, 0%, 100%);
+    box-shadow: 0 20px 30px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    padding: 15px;
+    border-radius: 20px;
+}
+.one{
+    font-weight: 700;
+    font-size: 20px;
+}
+.two {
+    font-size: 15px;
+    color: hsl(220, 15%, 55%);
+    font-weight: 400; 
+}
+img{
+    width: 100%;
+    border-radius: 1px;
+}
